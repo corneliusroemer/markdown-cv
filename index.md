@@ -46,7 +46,7 @@ Marktforschung, IT Consulting, Software Testing
 Multilingualer Blog mit Hintergrundinterview von Geflüchteten
 
 `2015-2016`
-**Aufsichtsratsmitglied, University of Cambridge**
+**Aufsichtsrat, University of Cambridge**
 
 `2014-2015`
 **Präsident der Studentenvertretung**
@@ -78,6 +78,26 @@ Multilingualer Blog mit Hintergrundinterview von Geflüchteten
 ## Sprachen
 
 ## Tech Stack
+
+## Auslandsaufenthalte
+`4 Jahre`
+Großbritannien
+
+`2 Jahre`
+Belgien
+
+`5 Monate`
+USA
+
+`4 Monate`
+Tschechien
+
+`3 Monate`
+Türkei
+
+`2 Monate`
+China
+
 
 ## Zur Person
 
