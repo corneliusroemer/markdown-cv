@@ -3,20 +3,24 @@ layout: cv
 title: CV von Cornelius Römer
 ---
 # Cornelius Römer
-Quantenphysiker, Data Scientist & Software Developer \\
+Quantenphysiker, Data Scientist & Software Developer\\
 Trinity College, Cambridge & MIT
 
 ## Education
 `2016-2018`
-**KU Leuven, Belgien**, *Ausgewählte Bachelor- und Mastermodule* \\
+**KU Leuven, Belgien**\\
+*Ausgewählte Bachelor- und Mastermodule*\\
 Operations Research, Machine Learning, Business IT Systems, Statistical Modelling, Economics
 
 `2012-2016`
-**Trinity College, University of Cambridge**, *B.A. & M.Sc. Natural Sciences (Physics)* \\
-First Class (top 10%) in allen 4 Jahren, Spezialisierung in Quantenoptik und -Information
+**Trinity College, University of Cambridge**\\
+*B.A. & M.Sc. Natural Sciences (Physics)*\\
+First Class (top 10%) in allen 4 Jahren\\
+Spezialisierung in Quantenoptik und -Information
 
 `2010-2012`
-**Landesgymnasium für Hochbegabte, Schwäbisch Gmünd**, *Abitur mit 1,0*
+**Landesgymnasium für Hochbegabte, Schwäbisch Gmünd**\\
+*Abitur mit 1,0*
 
 ## Employment
 
