@@ -1,45 +1,28 @@
 ---
 layout: cv
-title: Cornelius Römer's CV
+title: CV von Cornelius Römer
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Cornelius Römer
+Quantenphysiker, Data Scientist & Software Developer - Trinity College, Cambridge & MIT
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="cornelius.roemer@gmail.com">isaac@applesdofall.org</a>
 </div>
 
-
-## Currently
-
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
-
 ## Education
+`2016-2018`
+*Ausgewählte Kurse, Fakultät für BWL und VWL* **KU Leuven, Belgien**
+Operations Research, Data Science, Machine Learning, Business IT Systems, Statistical Modelling, Economics
 
-`1654-1660`
-__The King's School, Grantham.__
+`2012-2016`
+*B.A. & M.Sc. Natural Sciences (Physics)*, **Trinity College, Universty of Cambridge**
+First Class (top 10%) in allen 4 Jahren
+Spezialisierung: Quantenoptik und -Information
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`2010-2012`
+*Allgemein Hochschulreife: Schnitt 1,0*, **Landesgymnasium für Hochbegabte, Schwäbisch Gmünd**
 
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
+## Employment
 
 
 ## Awards
