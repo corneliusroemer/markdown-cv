@@ -12,15 +12,17 @@ Quantenphysiker, Data Scientist & Software Developer - Trinity College, Cambridg
 ## Education
 `2016-2018`
 *Ausgewählte Kurse, Fakultät für BWL und VWL* **KU Leuven, Belgien**
+
 Operations Research, Data Science, Machine Learning, Business IT Systems, Statistical Modelling, Economics
 
 `2012-2016`
-*B.A. & M.Sc. Natural Sciences (Physics)*, **Trinity College, Universty of Cambridge**
+*B.A. & M.Sc. Natural Sciences (Physics)*  **Trinity College, Universty of Cambridge**
+
 First Class (top 10%) in allen 4 Jahren
-Spezialisierung: Quantenoptik und -Information
+Spezialisierung in Quantenoptik und -Information
 
 `2010-2012`
-*Allgemein Hochschulreife: Schnitt 1,0*, **Landesgymnasium für Hochbegabte, Schwäbisch Gmünd**
+*Allgemein Hochschulreife (1,0)*  **Landesgymnasium für Hochbegabte, Schwäbisch Gmünd**
 
 ## Employment
 
