@@ -35,7 +35,7 @@ Zirkadiane Rhythmik in Zellkultur, Dr. O'Neill
 
 `2007-2012`
 **Roboterfußball, RoboCup Junior**\\
-Mikroelektrik, Regelungstechnik, Sensorik, Software
+Mikroelektronik, Regelungstechnik, Sensorik, Software
 ## Arbeitserfahrung
 `2018-jetzt`
 **Selbständiger Unternehmer**\\
@@ -76,33 +76,33 @@ Multilingualer Blog mit Hintergrundinterview von Geflüchteten
 **Deutscher Meister im Roboterfußball**
 
 ## Sprachen
-**C2: Englisch**
-**C1: Niederländisch**
-**B2: Französisch**
-**B1: Italienisch, Schwedisch**
-**A2: Chinesisch (Mandarin), Tschechisch, Russisch**
+**C2: Englisch**\\
+**C1: Niederländisch**\\
+**B2: Französisch**\\
+**B1: Italienisch, Schwedisch**\\
+**A2: Chinesisch (Mandarin), Tschechisch, Russisch**\\
 **A1: Arabisch, Türkisch**
 
 ## Tech Stack
-Unix, Bash, Sed, Grep, Git\\
+**Unix, Bash, Sed, Grep, Git\\
 Haskell, Javascript, Python, C++, Assembler\\
-Cloud, AWS, Google Script for Apps
+Cloud, AWS, Google Script for Apps**
 
 ## Auslandsaufenthalte
 `4 Jahre`
-Großbritannien
+**Großbritannien**
 
 `2 Jahre`
-Belgien
+**Belgien**
 
 `5 Monate`
-USA
+**USA**
 
 `4 Monate`
-Tschechien
+**Tschechien**
 
 `3 Monate`
-Türkei
+**Türkei**
 
 `2 Monate`
-China
+**China**
