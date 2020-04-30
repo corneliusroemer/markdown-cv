@@ -76,20 +76,17 @@ Multilingualer Blog mit Hintergrundinterview von Geflüchteten
 **Deutscher Meister im Roboterfußball**
 
 ## Sprachen
-**Deutsch** *Muttersprache*
-**Englisch** *C2*
-**Niederländisch** *C1*
-**Französisch** *B2*
-**Italienisch** *B1*
-**Schwedisch** *B1*
-**Chinesisch (Mandarin)** *A2*
-**Russisch** *A2*
-**Tschechisch** *A2*
-**Arabisch** *A1*
-**Türkisch** *A1*
+**C2: Englisch**
+**C1: Niederländisch**
+**B2: Französisch**
+**B1: Italienisch, Schwedisch**
+**A2: Chinesisch (Mandarin), Tschechisch, Russisch**
+**A1: Arabisch, Türkisch**
 
 ## Tech Stack
-Unix, GNU tools (sed,grep,awk), Git, Haskell, Javascript, Python, C++, Assembler, Cloud, AWS
+Unix, Bash, Sed, Grep, Git\\
+Haskell, Javascript, Python, C++, Assembler\\
+Cloud, AWS, Google Script for Apps
 
 ## Auslandsaufenthalte
 `4 Jahre`
