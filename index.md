@@ -2,7 +2,7 @@
 layout: cv
 title: CV von Cornelius Römer
 ---
-## Cornelius Römer
+# Cornelius Römer
 Quantenphysiker, Data Scientist & Software Developer\\
 Trinity College, Cambridge & MIT
 ## Ausbildung
@@ -50,7 +50,7 @@ Multilingualer Blog mit Hintergrundinterview von Geflüchteten
 
 `2014-2015`
 **Präsident der Studentenvertretung**
-## Preise, Auszeichnungen & Stipendien
+## Preise & Stipendien
 `2015`
 **Senior Scholar, Trinity College Cambridge**
 
@@ -66,14 +66,8 @@ Multilingualer Blog mit Hintergrundinterview von Geflüchteten
 `2012`
 **1. Preis, Endrunde des Bundeswettbewerbs für Mathematik**
 
-`2012`
-**Tag der Talente der Bundesregierung**
-
 `2011`
 **1. Preis, Landeswettbewerb für politische Bildung**
-
-`2011`
-**Stipendiat, Deutsche SchülerAkademie**
 
 `2010-12`
 **Schülerkolleg International des Tönnissteiner Kreises**
