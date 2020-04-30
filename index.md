@@ -50,7 +50,7 @@ Multilingualer Blog mit Hintergrundinterview von Geflüchteten
 
 `2014-2015`
 **Präsident der Studentenvertretung**
-## Preise & Stipendien
+## Auszeichnungen
 `2015`
 **Senior Scholar, Trinity College Cambridge**
 
@@ -76,8 +76,20 @@ Multilingualer Blog mit Hintergrundinterview von Geflüchteten
 **Deutscher Meister im Roboterfußball**
 
 ## Sprachen
+**Deutsch** *Muttersprache*
+**Englisch** *C2*
+**Niederländisch** *C1*
+**Französisch** *B2*
+**Italienisch** *B1*
+**Schwedisch** *B1*
+**Chinesisch (Mandarin)** *A2*
+**Russisch** *A2*
+**Tschechisch** *A2*
+**Arabisch** *A1*
+**Türkisch** *A1*
 
 ## Tech Stack
+Unix, GNU tools (sed,grep,awk), Git, Haskell, Javascript, Python, C++, Assembler, Cloud, AWS
 
 ## Auslandsaufenthalte
 `4 Jahre`
@@ -97,10 +109,3 @@ Türkei
 
 `2 Monate`
 China
-
-
-## Zur Person
-
-
-
-
