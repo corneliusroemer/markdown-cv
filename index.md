@@ -77,19 +77,18 @@ Multilingualer Blog mit Hintergrundinterview von Geflüchteten
 **Deutscher Meister im Roboterfußball**
 
 ## Sprachen
-**C2: Englisch**\\
-**C1: Niederländisch**\\
-**B2: Französisch**\\
-**B1: Italienisch, Schwedisch**\\
-**A2: Chinesisch (Mandarin), Tschechisch, Russisch**\\
-**A1: Arabisch, Türkisch**
+*C2:* **Englisch**\\
+*C1:* **Niederländisch**\\
+*B2:* **Französisch**\\
+*B1:* **Italienisch, Schwedisch**\\
+*A2:* **Chinesisch (Mandarin), Tschechisch, Russisch**\\
+*A1:* **Arabisch, Türkisch**
 
 ## Tech Stack
-**Unix, Bash, Sed, Grep, Git, JQ\\
-Haskell, Javascript, Python, C++, Assembler\\
-HTML, CSS, PostgreSQL, AWS, Google Cloud\\
-Facebook Ads, Google Analytics, SurveyGizmo
-**
+**Unix, Bash, Sed, Grep, Git, JQ**\\
+**Haskell, Javascript, Python, C++, Assembler**\\
+**HTML, CSS, PostgreSQL, AWS, Google Cloud**\\
+**Facebook Ads, Google Analytics, SurveyGizmo**
 
 ## Auslandsaufenthalte
 `4 Jahre`
@@ -114,4 +113,4 @@ Facebook Ads, Google Analytics, SurveyGizmo
 Hohenzollernstr. 50, 71263 Weil der Stadt\\
 +49 1590 1387518\\
 cornelius.roemer@gmail.com\\
-Staatsangehörigkeit: Deutsch\\
+Staatsangehörigkeit: Deutsch\
