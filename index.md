@@ -3,8 +3,8 @@ layout: cv
 title: CV von Cornelius Römer
 ---
 # Cornelius Römer
-Quantenphysiker, Data Scientist & Software Developer\\
-Trinity College, Cambridge & MIT
+Quantenphysiker, Data Scientist & Software Entwickler\\
+Cambridge & MIT
 ## Ausbildung
 `2016-2018`
 **KU Leuven, Belgien**\\
@@ -28,7 +28,7 @@ Laserbau für ultrakalte Fermigase, Prof. Zwierlein
 
 `Jun-Sep 2014`
 **Cavendish Laboratory, University of Cambridge**\\
-Optische Laserfalle für Bose-Einstein-Kondensate, Prof. Hadzibabic
+Optische Fallen für ultrakalte Quantengase, Prof. Hadzibabic
 
 `Jun-Sep 2013`
 **Laboratory of Molecular Biology, Cambridge**\\
@@ -56,7 +56,7 @@ Multilingualer Blog mit Hintergrundinterview von Geflüchteten
 **Senior Scholar, Trinity College Cambridge**
 
 `2013-2015`
-**Wissenschaftliches Kolleg der Studienstiftung des Deutschen Volkes**
+**Wissenschaftliches Kolleg, Studienstiftung des Deutschen Volkes**
 
 `2012-2016`
 **Konrad-Adenauer-Stiftung**
@@ -81,8 +81,8 @@ Multilingualer Blog mit Hintergrundinterview von Geflüchteten
 *C1:* **Niederländisch**\\
 *B2:* **Französisch**\\
 *B1:* **Italienisch, Schwedisch**\\
-*A2:* **Chinesisch (Mandarin), Tschechisch, Russisch**\\
-*A1:* **Arabisch, Türkisch**
+*A2:* **Chinesisch (Mandarin)**\\
+*A1:* **Tschechisch, Russisch**
 
 ## Tech Stack
 **Unix, Bash, Sed, Grep, Git, JQ**\\
