@@ -9,7 +9,8 @@ Trinity College, Cambridge & MIT
 `2016-2018`
 **KU Leuven, Belgien**\\
 *Ausgewählte Bachelor- und Mastermodule*\\
-Operations Research, Machine Learning, Business IT Systems, Statistical Modelling, Economics
+Operations Research, Machine Learning, Business IT Systems\\
+Statistical Modelling, Economics, Econometrics
 
 `2012-2016`
 **Trinity College, University of Cambridge**\\
@@ -110,7 +111,7 @@ Facebook Ads, Google Analytics, SurveyGizmo
 **China**
 
 ## Zur Person
-Hohenzollernstr. 50, 71263 Weil der Stadt
-+49 1590 1387518
-cornelius.roemer@gmail.com
-Staatsangehörigkeit: Deutsch
+Hohenzollernstr. 50, 71263 Weil der Stadt\\
++49 1590 1387518\\
+cornelius.roemer@gmail.com\\
+Staatsangehörigkeit: Deutsch\\
