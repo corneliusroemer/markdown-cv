@@ -113,4 +113,4 @@ Multilingualer Blog mit Hintergrundinterview von Geflüchteten
 Hohenzollernstr. 50, 71263 Weil der Stadt\\
 +49 1590 1387518\\
 cornelius.roemer@gmail.com\\
-Staatsangehörigkeit: Deutsch\
+Staatsangehörigkeit: Deutsch
