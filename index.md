@@ -49,7 +49,7 @@ Multilingualer Blog mit Hintergrundinterview von Geflüchteten
 **Aufsichtsrat, University of Cambridge**
 
 `2014-2015`
-**Präsident der Studentenvertretung**
+**Präsident der Studentenvertretung, Trinity College, Cambridge**
 ## Auszeichnungen
 `2015`
 **Senior Scholar, Trinity College Cambridge**
@@ -84,9 +84,11 @@ Multilingualer Blog mit Hintergrundinterview von Geflüchteten
 **A1: Arabisch, Türkisch**
 
 ## Tech Stack
-**Unix, Bash, Sed, Grep, Git\\
+**Unix, Bash, Sed, Grep, Git, JQ\\
 Haskell, Javascript, Python, C++, Assembler\\
-Cloud, AWS, Google Script for Apps**
+HTML, CSS, PostgreSQL, AWS, Google Cloud\\
+Facebook Ads, Google Analytics, SurveyGizmo
+**
 
 ## Auslandsaufenthalte
 `4 Jahre`
@@ -106,3 +108,9 @@ Cloud, AWS, Google Script for Apps**
 
 `2 Monate`
 **China**
+
+## Zur Person
+Hohenzollernstr. 50, 71263 Weil der Stadt
++49 1590 1387518
+cornelius.roemer@gmail.com
+Staatsangehörigkeit: Deutsch
