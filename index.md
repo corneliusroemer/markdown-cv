@@ -3,7 +3,7 @@ layout: cv
 title: CV von Cornelius Römer
 ---
 # Cornelius Römer
-Quantenphysiker, Data Scientist & Software Entwickler\\
+IT-Consultant, Data Scientist & Software Entwickler\\
 Cambridge & MIT
 ## Ausbildung
 `2016-2018`
