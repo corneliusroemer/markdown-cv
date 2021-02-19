@@ -80,7 +80,7 @@ Multilingualer Blog mit Hintergrundinterview von Geflüchteten
 *C2:* **Englisch, Deutsch**\\
 *C1:* **Niederländisch**\\
 *B2:* **Französisch**\\
-*A2:* **Italienisch, Schwedisch** \\ 
+*A2:* **Italienisch, Schwedisch**\\
 *A1:* **Tschechisch, Russisch, Mandarin**
 
 ## Tech Stack
@@ -112,6 +112,6 @@ Multilingualer Blog mit Hintergrundinterview von Geflüchteten
 Hohenzollernstr. 50, 71263 Weil der Stadt\\
 +49 1590 1387518\\
 cornelius.roemer@gmail.com\\
-Staatsangehörigkeit: Deutsch
-Twitter: @CorneliusRoemer
+Staatsangehörigkeit: Deutsch\\
+Twitter: @CorneliusRoemer\\
 Github: https://github.com/corneliusroemer
