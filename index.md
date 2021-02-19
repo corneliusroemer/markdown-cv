@@ -3,8 +3,8 @@ layout: cv
 title: CV von Cornelius Römer
 ---
 # Cornelius Römer
-IT-Consultant, Data Scientist & Software Entwickler\\
-Cambridge & MIT
+Physiker, Data Scientist & Software Entwickler\\
+Cambridge Uni & MIT
 ## Ausbildung
 `2016-2018`
 **KU Leuven, Belgien**\\
@@ -16,7 +16,7 @@ Statistical Modelling, Economics, Econometrics
 **Trinity College, University of Cambridge**\\
 *B.A. & M.Sc. Natural Sciences (Physics)*\\
 First Class (top 10%) in allen 4 Jahren\\
-Spezialisierung in Quantenoptik und -Information
+Fokus: Physik, Biologie und Mathematik
 
 `2010-2012`
 **Landesgymnasium für Hochbegabte, Schwäbisch Gmünd**\\
@@ -31,7 +31,7 @@ Laserbau für ultrakalte Fermigase, Prof. Zwierlein
 Optische Fallen für ultrakalte Quantengase, Prof. Hadzibabic
 
 `Jun-Sep 2013`
-**Laboratory of Molecular Biology, Cambridge**\\
+**MRC Laboratory of Molecular Biology, Cambridge**\\
 Zirkadiane Rhythmik in Zellkultur, Dr. O'Neill
 
 `2007-2012`
@@ -40,14 +40,14 @@ Mikroelektronik, Regelungstechnik, Sensorik, Software
 ## Arbeitserfahrung
 `2018-jetzt`
 **Selbständiger Unternehmer**\\
-Marktforschung, IT Consulting, Software Testing
+Software Development, Data Science und Modellierung, Projektmanagement, Wissenschaftskommunikation
 
 `2016-2018`
 **Gründer und CTO von RefuTales, Belgien**\\
 Multilingualer Blog mit Hintergrundinterview von Geflüchteten
 
 `2015-2016`
-**Aufsichtsrat, University of Cambridge**
+**Aufsichtsratsmitglied, University of Cambridge**
 
 `2014-2015`
 **Präsident der Studentenvertretung, Trinity College, Cambridge**
@@ -77,18 +77,17 @@ Multilingualer Blog mit Hintergrundinterview von Geflüchteten
 **Deutscher Meister im Roboterfußball**
 
 ## Sprachen
-*C2:* **Englisch**\\
+*C2:* **Englisch, Deutsch**\\
 *C1:* **Niederländisch**\\
 *B2:* **Französisch**\\
-*B1:* **Italienisch, Schwedisch**\\
-*A2:* **Chinesisch (Mandarin)**\\
-*A1:* **Tschechisch, Russisch**
+*A2:* **Italienisch, Schwedisch** \\ 
+*A1:* **Tschechisch, Russisch, Mandarin**
 
 ## Tech Stack
 **Unix, Bash, Sed, Grep, Git, JQ**\\
-**Haskell, Javascript, Python, C++, Assembler**\\
-**HTML, CSS, PostgreSQL, AWS, Google Cloud**\\
-**Facebook Ads, Google Analytics, SurveyGizmo**
+**R, Python, Haskell, Javascript, C#**\\
+**PostgreSQL, AWS, Google Cloud**\\
+**Facebook Ads, SurveyGizmo, Google Sheets**
 
 ## Auslandsaufenthalte
 `4 Jahre`
@@ -114,3 +113,5 @@ Hohenzollernstr. 50, 71263 Weil der Stadt\\
 +49 1590 1387518\\
 cornelius.roemer@gmail.com\\
 Staatsangehörigkeit: Deutsch
+Twitter: @CorneliusRoemer
+Github: https://github.com/corneliusroemer
