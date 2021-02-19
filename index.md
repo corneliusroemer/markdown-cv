@@ -70,7 +70,7 @@ Multilingualer Blog mit Hintergrundinterview von Geflüchteten
 `2011`
 **1. Preis, Landeswettbewerb für politische Bildung**
 
-`2010-12`
+`2010-2012`
 **Schülerkolleg International des Tönnissteiner Kreises**
 
 `2008 & 2011`
